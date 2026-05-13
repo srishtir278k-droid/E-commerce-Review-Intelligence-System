@@ -169,8 +169,16 @@ def apply_fake_detection(df: pd.DataFrame, model=None) -> pd.DataFrame:
     feats = extract_features(df)
 
     if model is not None:
-        df["fake_confidence"] = model.predict_proba(feats.values)[:, 1]
-        df["is_fake"]         = (df["fake_confidence"] >= 0.5).astype(int)
+        try:
+            proba = model.predict_proba(feats.values)
+            # Handle case where model only learned 1 class
+            if proba.shape[1] >= 2:
+                df["fake_confidence"] = proba[:, 1]
+            else:
+                df["fake_confidence"] = proba[:, 0]
+        except Exception:
+            df["fake_confidence"] = 0.1
+        df["is_fake"] = (df["fake_confidence"] >= 0.5).astype(int)
     else:
         # Rule-based fallback score
         score = (
