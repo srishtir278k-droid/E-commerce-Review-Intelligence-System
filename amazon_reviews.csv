@@ -1,0 +1,501 @@
+reviewerID,asin,reviewText,summary,overall,verified,unixReviewTime,true_fake,true_category
+REVIEWER_00000,ASIN_9935,It is okay for the price. Does what it says but nothing special. Great gift idea.,It is okay for the price. Does what it says but no,3.0,True,1612376383,0,neutral
+REVIEWER_00001,ASIN_1434,It is okay for the price. Does what it says but nothing special. Great gift idea.,It is okay for the price. Does what it says but no,3.0,True,1628291459,0,neutral
+REVIEWER_00002,ASIN_1106,Love this product! It has made my daily routine so much easier. Very useful item.,Love this product! It has made my daily routine so,5.0,True,1634920550,0,positive
+REVIEWER_00003,ASIN_6514,Item arrived damaged due to bad packaging during shipping. Great gift idea.,Item arrived damaged due to bad packaging during s,2.0,True,1612888807,0,delivery
+REVIEWER_00004,ASIN_1711,Great quality item. Very happy with my purchase. Highly recommended!,Great quality item. Very happy with my purchase. H,5.0,True,1633944935,0,positive
+REVIEWER_00005,ASIN_6925,Very disappointed. Product looks nothing like the pictures. Would buy again.,Very disappointed. Product looks nothing like the ,2.0,True,1628831923,0,negative
+REVIEWER_00006,ASIN_2307,Great quality item. Very happy with my purchase. Highly recommended!,Great quality item. Very happy with my purchase. H,4.0,True,1638158900,0,positive
+REVIEWER_00007,ASIN_3664,Great quality item. Very happy with my purchase. Highly recommended! Good value.,Great quality item. Very happy with my purchase. H,5.0,True,1621880412,0,positive
+REVIEWER_00008,ASIN_5010,Late delivery and the item was defective. Extremely frustrating.,Late delivery and the item was defective. Extremel,1.0,True,1614942077,0,negative
+REVIEWER_00009,ASIN_1916,Late delivery and the item was defective. Extremely frustrating.,Late delivery and the item was defective. Extremel,1.0,True,1617144777,0,negative
+REVIEWER_00010,ASIN_6155,Delivery was delayed by ten days. Very poor logistics. Great gift idea.,Delivery was delayed by ten days. Very poor logist,2.0,True,1616593762,0,delivery
+REVIEWER_00011,ASIN_5040,Absolutely the best thing I have ever bought. 10/10 would recommend!!!! Great gift idea.,Absolutely the best thing I have ever bought. 10/1,5.0,False,1634456882,1,fake
+REVIEWER_00012,ASIN_4593,Works as described. Nothing exceptional though.,Works as described. Nothing exceptional though.,3.0,True,1614100843,0,neutral
+REVIEWER_00013,ASIN_3621,"Average product. Some things work well, others not so much.","Average product. Some things work well, others not",3.0,True,1636036973,0,neutral
+REVIEWER_00014,ASIN_8668,Wonderful wonderful! Best purchase ever! Amazing quality amazing price!,Wonderful wonderful! Best purchase ever! Amazing q,5.0,False,1627213331,1,fake
+REVIEWER_00015,ASIN_9797,Love this product! It has made my daily routine so much easier.,Love this product! It has made my daily routine so,4.0,True,1634654478,0,positive
+REVIEWER_00016,ASIN_5315,"Wonderful item, very well made. Arrived earlier than expected. Great gift idea.","Wonderful item, very well made. Arrived earlier th",4.0,True,1626256082,0,positive
+REVIEWER_00017,ASIN_9317,The courier lost my package and it arrived two weeks after expected.,The courier lost my package and it arrived two wee,1.0,True,1629892849,0,delivery
+REVIEWER_00018,ASIN_9689,"Wonderful item, very well made. Arrived earlier than expected.","Wonderful item, very well made. Arrived earlier th",4.0,True,1640278727,0,positive
+REVIEWER_00019,ASIN_6038,"Wonderful item, very well made. Arrived earlier than expected. Would buy again.","Wonderful item, very well made. Arrived earlier th",5.0,True,1617493886,0,positive
+REVIEWER_00020,ASIN_9727,Incredible product. Customer support was also very helpful. Recommend to friends.,Incredible product. Customer support was also very,4.0,True,1635156339,0,positive
+REVIEWER_00021,ASIN_4470,Really impressed with the build quality. Delivery was super fast. Very useful item.,Really impressed with the build quality. Delivery ,4.0,True,1640628364,0,positive
+REVIEWER_00022,ASIN_7118,"Not bad, not great either. Might be useful for some people.","Not bad, not great either. Might be useful for som",3.0,True,1624159399,0,neutral
+REVIEWER_00023,ASIN_4770,Material is not as advertised. Feels very flimsy and fragile. Bought for my wife.,Material is not as advertised. Feels very flimsy a,1.0,True,1629203973,0,quality
+REVIEWER_00024,ASIN_2160,Great quality item. Very happy with my purchase. Highly recommended! Bought for my wife.,Great quality item. Very happy with my purchase. H,4.0,True,1626711416,0,positive
+REVIEWER_00025,ASIN_8744,Really impressed with the build quality. Delivery was super fast.,Really impressed with the build quality. Delivery ,4.0,True,1617612834,0,positive
+REVIEWER_00026,ASIN_7939,Item arrived damaged due to bad packaging during shipping. Good value.,Item arrived damaged due to bad packaging during s,1.0,True,1623253503,0,delivery
+REVIEWER_00027,ASIN_2790,Terrible quality. Broke after just two days. Total waste of money. Good value.,Terrible quality. Broke after just two days. Total,1.0,True,1617802722,0,negative
+REVIEWER_00028,ASIN_5092,Love this product! It has made my daily routine so much easier. Great gift idea.,Love this product! It has made my daily routine so,5.0,True,1638802079,0,positive
+REVIEWER_00029,ASIN_2528,Material is not as advertised. Feels very flimsy and fragile. Very useful item.,Material is not as advertised. Feels very flimsy a,1.0,True,1640542917,0,quality
+REVIEWER_00030,ASIN_7570,Shipping took forever. My order was stuck in transit for two weeks.,Shipping took forever. My order was stuck in trans,1.0,True,1639740157,0,delivery
+REVIEWER_00031,ASIN_8454,Fantastic! Works like a charm. Great value for money.,Fantastic! Works like a charm. Great value for mon,4.0,True,1619030575,0,positive
+REVIEWER_00032,ASIN_1958,Cheaply made. The description is completely misleading. Would buy again.,Cheaply made. The description is completely mislea,2.0,True,1628893265,0,negative
+REVIEWER_00033,ASIN_8811,Best product ever! Amazing! Buy now! You will love it! Five stars! Very useful item.,Best product ever! Amazing! Buy now! You will love,5.0,False,1626332058,1,fake
+REVIEWER_00034,ASIN_4044,Motor broke after three days. Extremely poor build quality. Very useful item.,Motor broke after three days. Extremely poor build,1.0,True,1611758394,0,quality
+REVIEWER_00035,ASIN_1651,"Not bad, not great either. Might be useful for some people. Very useful item.","Not bad, not great either. Might be useful for som",3.0,True,1630242194,0,neutral
+REVIEWER_00036,ASIN_6147,Incredible product. Customer support was also very helpful.,Incredible product. Customer support was also very,5.0,True,1617468171,0,positive
+REVIEWER_00037,ASIN_2188,Exceeded my expectations. Fast shipping and excellent packaging.,Exceeded my expectations. Fast shipping and excell,5.0,True,1609771774,0,positive
+REVIEWER_00038,ASIN_3170,Do not buy this. It broke immediately and smells strange. Great gift idea.,Do not buy this. It broke immediately and smells s,1.0,True,1640774188,0,negative
+REVIEWER_00039,ASIN_9900,Very disappointed. Product looks nothing like the pictures.,Very disappointed. Product looks nothing like the ,1.0,True,1633066082,0,negative
+REVIEWER_00040,ASIN_2697,Cheaply made. The description is completely misleading.,Cheaply made. The description is completely mislea,1.0,True,1640964462,0,negative
+REVIEWER_00041,ASIN_3546,The stitching fell apart within a week. Terrible quality control.,The stitching fell apart within a week. Terrible q,1.0,True,1618597689,0,quality
+REVIEWER_00042,ASIN_9280,"Perfect product, exactly as described. Will definitely buy again. Good value.","Perfect product, exactly as described. Will defini",5.0,True,1625851608,0,positive
+REVIEWER_00043,ASIN_1722,This product is absolutely amazing! Works perfectly and arrived on time.,This product is absolutely amazing! Works perfectl,4.0,True,1609578173,0,positive
+REVIEWER_00044,ASIN_8007,Arrived damaged and customer service was useless. Never buying again. Recommend to friends.,Arrived damaged and customer service was useless. ,2.0,True,1628280111,0,negative
+REVIEWER_00045,ASIN_3426,Great quality item. Very happy with my purchase. Highly recommended!,Great quality item. Very happy with my purchase. H,4.0,True,1623880449,0,positive
+REVIEWER_00046,ASIN_1653,Outstanding quality. My family loves it. Five stars all the way!,Outstanding quality. My family loves it. Five star,5.0,True,1639622105,0,positive
+REVIEWER_00047,ASIN_7658,Poor quality materials. Falls apart easily. Do not buy.,Poor quality materials. Falls apart easily. Do not,1.0,True,1630285144,0,negative
+REVIEWER_00048,ASIN_3900,PERFECT PERFECT PERFECT!! Everyone should buy this immediately!!!,PERFECT PERFECT PERFECT!! Everyone should buy this,5.0,False,1639034620,1,fake
+REVIEWER_00049,ASIN_5065,Arrived damaged and customer service was useless. Never buying again.,Arrived damaged and customer service was useless. ,2.0,True,1618411714,0,negative
+REVIEWER_00050,ASIN_4644,Great quality item. Very happy with my purchase. Highly recommended!,Great quality item. Very happy with my purchase. H,5.0,True,1616155752,0,positive
+REVIEWER_00051,ASIN_4728,Item arrived damaged due to bad packaging during shipping.,Item arrived damaged due to bad packaging during s,2.0,True,1616939273,0,delivery
+REVIEWER_00052,ASIN_5573,"Perfect product, exactly as described. Will definitely buy again.","Perfect product, exactly as described. Will defini",5.0,True,1621241708,0,positive
+REVIEWER_00053,ASIN_5279,"Does the job, but there are probably better options available.","Does the job, but there are probably better option",3.0,True,1615450941,0,neutral
+REVIEWER_00054,ASIN_6139,Works as described. Nothing exceptional though. Recommend to friends.,Works as described. Nothing exceptional though. Re,3.0,True,1624102148,0,neutral
+REVIEWER_00055,ASIN_1727,"Average product. Some things work well, others not so much.","Average product. Some things work well, others not",3.0,True,1633242087,0,neutral
+REVIEWER_00056,ASIN_6409,Cheaply made. The description is completely misleading.,Cheaply made. The description is completely mislea,1.0,True,1630368825,0,negative
+REVIEWER_00057,ASIN_6344,Very disappointed. Product looks nothing like the pictures.,Very disappointed. Product looks nothing like the ,2.0,True,1622961516,0,negative
+REVIEWER_00058,ASIN_7211,Wonderful wonderful! Best purchase ever! Amazing quality amazing price! Good value.,Wonderful wonderful! Best purchase ever! Amazing q,5.0,False,1632186218,1,fake
+REVIEWER_00059,ASIN_1006,PERFECT PERFECT PERFECT!! Everyone should buy this immediately!!!,PERFECT PERFECT PERFECT!! Everyone should buy this,5.0,False,1619655551,1,fake
+REVIEWER_00060,ASIN_4501,Fantastic! Works like a charm. Great value for money.,Fantastic! Works like a charm. Great value for mon,5.0,True,1626611353,0,positive
+REVIEWER_00061,ASIN_6491,Arrived damaged and customer service was useless. Never buying again. Good value.,Arrived damaged and customer service was useless. ,1.0,True,1612592754,0,negative
+REVIEWER_00062,ASIN_1757,Shipping took forever. My order was stuck in transit for two weeks. Great gift idea.,Shipping took forever. My order was stuck in trans,2.0,True,1617674752,0,delivery
+REVIEWER_00063,ASIN_4185,No response from seller after multiple complaints. Avoid.,No response from seller after multiple complaints.,1.0,True,1633562889,0,service
+REVIEWER_00064,ASIN_1090,Absolutely the best thing I have ever bought. 10/10 would recommend!!!! Good value.,Absolutely the best thing I have ever bought. 10/1,5.0,False,1639411893,1,fake
+REVIEWER_00065,ASIN_1822,Package arrived three weeks late. Completely unacceptable. Good value.,Package arrived three weeks late. Completely unacc,2.0,True,1628162634,0,delivery
+REVIEWER_00066,ASIN_6198,Great quality item. Very happy with my purchase. Highly recommended! Recommend to friends.,Great quality item. Very happy with my purchase. H,5.0,True,1634801185,0,positive
+REVIEWER_00067,ASIN_3607,Motor broke after three days. Extremely poor build quality.,Motor broke after three days. Extremely poor build,2.0,True,1634412135,0,quality
+REVIEWER_00068,ASIN_5543,Material is not as advertised. Feels very flimsy and fragile.,Material is not as advertised. Feels very flimsy a,2.0,True,1635155643,0,quality
+REVIEWER_00069,ASIN_4841,Item arrived damaged due to bad packaging during shipping. Bought for my wife.,Item arrived damaged due to bad packaging during s,1.0,True,1618576446,0,delivery
+REVIEWER_00070,ASIN_3503,Cheaply made. The description is completely misleading. Great gift idea.,Cheaply made. The description is completely mislea,1.0,True,1633162693,0,negative
+REVIEWER_00071,ASIN_2020,Fantastic! Works like a charm. Great value for money.,Fantastic! Works like a charm. Great value for mon,5.0,True,1616399410,0,positive
+REVIEWER_00072,ASIN_7232,Item arrived damaged due to bad packaging during shipping.,Item arrived damaged due to bad packaging during s,1.0,True,1625463984,0,delivery
+REVIEWER_00073,ASIN_7865,"Wonderful item, very well made. Arrived earlier than expected.","Wonderful item, very well made. Arrived earlier th",5.0,True,1627518885,0,positive
+REVIEWER_00074,ASIN_5471,Wonderful wonderful! Best purchase ever! Amazing quality amazing price!,Wonderful wonderful! Best purchase ever! Amazing q,5.0,False,1624083428,1,fake
+REVIEWER_00075,ASIN_3704,Awful product. Complete waste of money. Zero stars if I could.,Awful product. Complete waste of money. Zero stars,2.0,True,1637661890,0,negative
+REVIEWER_00076,ASIN_1444,Arrived damaged and customer service was useless. Never buying again.,Arrived damaged and customer service was useless. ,1.0,True,1612276009,0,negative
+REVIEWER_00077,ASIN_4467,Decent enough. Delivery was on time but the item is just average. Would buy again.,Decent enough. Delivery was on time but the item i,3.0,True,1624716377,0,neutral
+REVIEWER_00078,ASIN_5133,Awful product. Complete waste of money. Zero stars if I could.,Awful product. Complete waste of money. Zero stars,2.0,True,1637474161,0,negative
+REVIEWER_00079,ASIN_2124,This product is absolutely amazing! Works perfectly and arrived on time.,This product is absolutely amazing! Works perfectl,4.0,True,1635673031,0,positive
+REVIEWER_00080,ASIN_1333,Customer service refused to process my refund. Horrible experience.,Customer service refused to process my refund. Hor,1.0,True,1630307765,0,service
+REVIEWER_00081,ASIN_4571,Exceeded my expectations. Fast shipping and excellent packaging.,Exceeded my expectations. Fast shipping and excell,5.0,True,1625063151,0,positive
+REVIEWER_00082,ASIN_2876,Great great great great great! Totally love it so much!!,Great great great great great! Totally love it so ,5.0,False,1635557564,1,fake
+REVIEWER_00083,ASIN_7149,Delivery was delayed by ten days. Very poor logistics.,Delivery was delayed by ten days. Very poor logist,1.0,True,1622768714,0,delivery
+REVIEWER_00084,ASIN_4978,Paint chipped off after one use. Very poor manufacturing.,Paint chipped off after one use. Very poor manufac,1.0,True,1612878440,0,quality
+REVIEWER_00085,ASIN_1672,Great great great great great! Totally love it so much!!,Great great great great great! Totally love it so ,5.0,False,1621109425,1,fake
+REVIEWER_00086,ASIN_7882,Mediocre quality but acceptable for the price point.,Mediocre quality but acceptable for the price poin,3.0,True,1637052046,0,neutral
+REVIEWER_00087,ASIN_3506,Awful product. Complete waste of money. Zero stars if I could.,Awful product. Complete waste of money. Zero stars,2.0,True,1624071723,0,negative
+REVIEWER_00088,ASIN_8921,Love this product! It has made my daily routine so much easier.,Love this product! It has made my daily routine so,5.0,True,1625057775,0,positive
+REVIEWER_00089,ASIN_2419,Do not buy this. It broke immediately and smells strange.,Do not buy this. It broke immediately and smells s,2.0,True,1618818478,0,negative
+REVIEWER_00090,ASIN_6511,Paint chipped off after one use. Very poor manufacturing.,Paint chipped off after one use. Very poor manufac,2.0,True,1610422212,0,quality
+REVIEWER_00091,ASIN_5232,This is garbage. Stopped working after a week. Requesting refund.,This is garbage. Stopped working after a week. Req,1.0,True,1620879076,0,negative
+REVIEWER_00092,ASIN_4130,Incredible product. Customer support was also very helpful.,Incredible product. Customer support was also very,5.0,True,1612331894,0,positive
+REVIEWER_00093,ASIN_8800,Fantastic! Works like a charm. Great value for money.,Fantastic! Works like a charm. Great value for mon,5.0,True,1631132104,0,positive
+REVIEWER_00094,ASIN_7625,Absolutely the best thing I have ever bought. 10/10 would recommend!!!! Great gift idea.,Absolutely the best thing I have ever bought. 10/1,5.0,False,1632671725,1,fake
+REVIEWER_00095,ASIN_7971,Incredible product. Customer support was also very helpful.,Incredible product. Customer support was also very,5.0,True,1634488639,0,positive
+REVIEWER_00096,ASIN_4155,Mediocre quality but acceptable for the price point. Would buy again.,Mediocre quality but acceptable for the price poin,3.0,True,1620047232,0,neutral
+REVIEWER_00097,ASIN_9595,Love this product! It has made my daily routine so much easier. Good value.,Love this product! It has made my daily routine so,4.0,True,1629484174,0,positive
+REVIEWER_00098,ASIN_1231,Great quality item. Very happy with my purchase. Highly recommended! Would buy again.,Great quality item. Very happy with my purchase. H,4.0,True,1633216358,0,positive
+REVIEWER_00099,ASIN_3068,Works as described. Nothing exceptional though.,Works as described. Nothing exceptional though.,3.0,True,1630862553,0,neutral
+REVIEWER_00100,ASIN_8690,Material is not as advertised. Feels very flimsy and fragile.,Material is not as advertised. Feels very flimsy a,1.0,True,1625522183,0,quality
+REVIEWER_00101,ASIN_2070,Arrived damaged and customer service was useless. Never buying again. Recommend to friends.,Arrived damaged and customer service was useless. ,1.0,True,1622904710,0,negative
+REVIEWER_00102,ASIN_2395,Do not buy this. It broke immediately and smells strange. Very useful item.,Do not buy this. It broke immediately and smells s,1.0,True,1617787106,0,negative
+REVIEWER_00103,ASIN_8253,Fantastic! Works like a charm. Great value for money.,Fantastic! Works like a charm. Great value for mon,4.0,True,1619436715,0,positive
+REVIEWER_00104,ASIN_2625,Material is not as advertised. Feels very flimsy and fragile.,Material is not as advertised. Feels very flimsy a,2.0,True,1635052410,0,quality
+REVIEWER_00105,ASIN_3847,"Perfect product, exactly as described. Will definitely buy again.","Perfect product, exactly as described. Will defini",5.0,True,1627980986,0,positive
+REVIEWER_00106,ASIN_5771,This product is absolutely amazing! Works perfectly and arrived on time.,This product is absolutely amazing! Works perfectl,5.0,True,1610554411,0,positive
+REVIEWER_00107,ASIN_4241,Outstanding quality. My family loves it. Five stars all the way! Great gift idea.,Outstanding quality. My family loves it. Five star,5.0,True,1623724496,0,positive
+REVIEWER_00108,ASIN_2169,"Perfect product, exactly as described. Will definitely buy again.","Perfect product, exactly as described. Will defini",4.0,True,1611460320,0,positive
+REVIEWER_00109,ASIN_5982,Outstanding quality. My family loves it. Five stars all the way!,Outstanding quality. My family loves it. Five star,5.0,True,1632938366,0,positive
+REVIEWER_00110,ASIN_8078,Late delivery and the item was defective. Extremely frustrating.,Late delivery and the item was defective. Extremel,2.0,True,1634106068,0,negative
+REVIEWER_00111,ASIN_1339,Late delivery and the item was defective. Extremely frustrating. Good value.,Late delivery and the item was defective. Extremel,1.0,True,1635120300,0,negative
+REVIEWER_00112,ASIN_3870,Great great great great great! Totally love it so much!!,Great great great great great! Totally love it so ,5.0,False,1625246587,1,fake
+REVIEWER_00113,ASIN_9056,Neither impressed nor disappointed. Just an ordinary product. Very useful item.,Neither impressed nor disappointed. Just an ordina,3.0,True,1612520787,0,neutral
+REVIEWER_00114,ASIN_3634,Awful product. Complete waste of money. Zero stars if I could.,Awful product. Complete waste of money. Zero stars,2.0,True,1620525574,0,negative
+REVIEWER_00115,ASIN_1601,Horrible experience. Wrong item shipped and no resolution offered.,Horrible experience. Wrong item shipped and no res,2.0,True,1624720625,0,negative
+REVIEWER_00116,ASIN_1018,Outstanding quality. My family loves it. Five stars all the way! Recommend to friends.,Outstanding quality. My family loves it. Five star,5.0,True,1631526620,0,positive
+REVIEWER_00117,ASIN_9167,Material is not as advertised. Feels very flimsy and fragile. Very useful item.,Material is not as advertised. Feels very flimsy a,2.0,True,1630444435,0,quality
+REVIEWER_00118,ASIN_8178,Terrible quality. Broke after just two days. Total waste of money. Great gift idea.,Terrible quality. Broke after just two days. Total,1.0,True,1639015507,0,negative
+REVIEWER_00119,ASIN_4920,Best product ever! Amazing! Buy now! You will love it! Five stars!,Best product ever! Amazing! Buy now! You will love,5.0,False,1633275559,1,fake
+REVIEWER_00120,ASIN_2858,Love this product! It has made my daily routine so much easier.,Love this product! It has made my daily routine so,4.0,True,1624942821,0,positive
+REVIEWER_00121,ASIN_5479,Paint chipped off after one use. Very poor manufacturing.,Paint chipped off after one use. Very poor manufac,2.0,True,1623400742,0,quality
+REVIEWER_00122,ASIN_4122,Item arrived damaged due to bad packaging during shipping.,Item arrived damaged due to bad packaging during s,1.0,True,1640391962,0,delivery
+REVIEWER_00123,ASIN_9318,Decent enough. Delivery was on time but the item is just average. Recommend to friends.,Decent enough. Delivery was on time but the item i,3.0,True,1618424026,0,neutral
+REVIEWER_00124,ASIN_9022,Delivery was delayed by ten days. Very poor logistics.,Delivery was delayed by ten days. Very poor logist,2.0,True,1638492527,0,delivery
+REVIEWER_00125,ASIN_9903,Love this product! It has made my daily routine so much easier.,Love this product! It has made my daily routine so,5.0,True,1622116269,0,positive
+REVIEWER_00126,ASIN_7274,This is garbage. Stopped working after a week. Requesting refund.,This is garbage. Stopped working after a week. Req,1.0,True,1617296255,0,negative
+REVIEWER_00127,ASIN_7246,Material is not as advertised. Feels very flimsy and fragile.,Material is not as advertised. Feels very flimsy a,1.0,True,1622413853,0,quality
+REVIEWER_00128,ASIN_6439,Contacted support five times with no resolution whatsoever.,Contacted support five times with no resolution wh,2.0,True,1638641500,0,service
+REVIEWER_00129,ASIN_3361,Really impressed with the build quality. Delivery was super fast.,Really impressed with the build quality. Delivery ,4.0,True,1623215799,0,positive
+REVIEWER_00130,ASIN_6546,Paint chipped off after one use. Very poor manufacturing.,Paint chipped off after one use. Very poor manufac,1.0,True,1630372315,0,quality
+REVIEWER_00131,ASIN_9742,Best product ever! Amazing! Buy now! You will love it! Five stars!,Best product ever! Amazing! Buy now! You will love,5.0,False,1622210199,1,fake
+REVIEWER_00132,ASIN_5708,Customer care is rude and unhelpful. Will never shop here again.,Customer care is rude and unhelpful. Will never sh,1.0,True,1617092372,0,service
+REVIEWER_00133,ASIN_2646,Absolutely the best thing I have ever bought. 10/10 would recommend!!!!,Absolutely the best thing I have ever bought. 10/1,5.0,False,1624346581,1,fake
+REVIEWER_00134,ASIN_7141,Outstanding quality. My family loves it. Five stars all the way! Bought for my wife.,Outstanding quality. My family loves it. Five star,4.0,True,1623910650,0,positive
+REVIEWER_00135,ASIN_3785,Love this product! It has made my daily routine so much easier.,Love this product! It has made my daily routine so,5.0,True,1615333552,0,positive
+REVIEWER_00136,ASIN_4804,Fantastic! Works like a charm. Great value for money.,Fantastic! Works like a charm. Great value for mon,4.0,True,1624932823,0,positive
+REVIEWER_00137,ASIN_8622,Neither impressed nor disappointed. Just an ordinary product.,Neither impressed nor disappointed. Just an ordina,3.0,True,1639698770,0,neutral
+REVIEWER_00138,ASIN_5901,Love this product! It has made my daily routine so much easier. Would buy again.,Love this product! It has made my daily routine so,4.0,True,1630898425,0,positive
+REVIEWER_00139,ASIN_7302,Return process is a nightmare. They keep asking for more documents.,Return process is a nightmare. They keep asking fo,2.0,True,1638092386,0,service
+REVIEWER_00140,ASIN_5837,Poor quality materials. Falls apart easily. Do not buy.,Poor quality materials. Falls apart easily. Do not,2.0,True,1610195370,0,negative
+REVIEWER_00141,ASIN_1803,Customer care is rude and unhelpful. Will never shop here again. Good value.,Customer care is rude and unhelpful. Will never sh,2.0,True,1640014434,0,service
+REVIEWER_00142,ASIN_6772,Neither impressed nor disappointed. Just an ordinary product.,Neither impressed nor disappointed. Just an ordina,3.0,True,1616807772,0,neutral
+REVIEWER_00143,ASIN_1645,Works as described. Nothing exceptional though.,Works as described. Nothing exceptional though.,3.0,True,1619825267,0,neutral
+REVIEWER_00144,ASIN_5835,Package arrived three weeks late. Completely unacceptable.,Package arrived three weeks late. Completely unacc,2.0,True,1620422074,0,delivery
+REVIEWER_00145,ASIN_6994,PERFECT PERFECT PERFECT!! Everyone should buy this immediately!!! Very useful item.,PERFECT PERFECT PERFECT!! Everyone should buy this,5.0,False,1627271649,1,fake
+REVIEWER_00146,ASIN_5835,Works as described. Nothing exceptional though. Recommend to friends.,Works as described. Nothing exceptional though. Re,3.0,True,1634509574,0,neutral
+REVIEWER_00147,ASIN_4696,The product feels very cheap. Material is low quality plastic.,The product feels very cheap. Material is low qual,2.0,True,1638320729,0,quality
+REVIEWER_00148,ASIN_1228,Absolutely the best thing I have ever bought. 10/10 would recommend!!!! Recommend to friends.,Absolutely the best thing I have ever bought. 10/1,5.0,False,1618332957,1,fake
+REVIEWER_00149,ASIN_7242,Neither impressed nor disappointed. Just an ordinary product.,Neither impressed nor disappointed. Just an ordina,3.0,True,1637054945,0,neutral
+REVIEWER_00150,ASIN_6374,Mediocre quality but acceptable for the price point.,Mediocre quality but acceptable for the price poin,3.0,True,1640170092,0,neutral
+REVIEWER_00151,ASIN_7689,"Average product. Some things work well, others not so much.","Average product. Some things work well, others not",3.0,True,1613374194,0,neutral
+REVIEWER_00152,ASIN_4846,This product is absolutely amazing! Works perfectly and arrived on time.,This product is absolutely amazing! Works perfectl,5.0,True,1639230682,0,positive
+REVIEWER_00153,ASIN_9850,"Does the job, but there are probably better options available.","Does the job, but there are probably better option",3.0,True,1623522760,0,neutral
+REVIEWER_00154,ASIN_7686,Decent enough. Delivery was on time but the item is just average.,Decent enough. Delivery was on time but the item i,3.0,True,1640968592,0,neutral
+REVIEWER_00155,ASIN_6942,Customer service refused to process my refund. Horrible experience. Recommend to friends.,Customer service refused to process my refund. Hor,2.0,True,1612792987,0,service
+REVIEWER_00156,ASIN_3001,Return process is a nightmare. They keep asking for more documents. Would buy again.,Return process is a nightmare. They keep asking fo,2.0,True,1637914471,0,service
+REVIEWER_00157,ASIN_1349,Package arrived three weeks late. Completely unacceptable.,Package arrived three weeks late. Completely unacc,1.0,True,1611156333,0,delivery
+REVIEWER_00158,ASIN_4394,Shipping took forever. My order was stuck in transit for two weeks.,Shipping took forever. My order was stuck in trans,1.0,True,1629134951,0,delivery
+REVIEWER_00159,ASIN_1046,"Perfect product, exactly as described. Will definitely buy again.","Perfect product, exactly as described. Will defini",5.0,True,1618762999,0,positive
+REVIEWER_00160,ASIN_2801,Paint chipped off after one use. Very poor manufacturing.,Paint chipped off after one use. Very poor manufac,1.0,True,1631640613,0,quality
+REVIEWER_00161,ASIN_6304,Paint chipped off after one use. Very poor manufacturing.,Paint chipped off after one use. Very poor manufac,1.0,True,1609988725,0,quality
+REVIEWER_00162,ASIN_2041,This product is absolutely amazing! Works perfectly and arrived on time.,This product is absolutely amazing! Works perfectl,4.0,True,1625439362,0,positive
+REVIEWER_00163,ASIN_1710,This is garbage. Stopped working after a week. Requesting refund.,This is garbage. Stopped working after a week. Req,1.0,True,1633861425,0,negative
+REVIEWER_00164,ASIN_1996,The courier lost my package and it arrived two weeks after expected.,The courier lost my package and it arrived two wee,2.0,True,1625531165,0,delivery
+REVIEWER_00165,ASIN_2204,Item arrived damaged due to bad packaging during shipping.,Item arrived damaged due to bad packaging during s,1.0,True,1639633585,0,delivery
+REVIEWER_00166,ASIN_9984,Incredible product. Customer support was also very helpful. Would buy again.,Incredible product. Customer support was also very,4.0,True,1633355082,0,positive
+REVIEWER_00167,ASIN_2624,Do not buy this. It broke immediately and smells strange.,Do not buy this. It broke immediately and smells s,2.0,True,1636071088,0,negative
+REVIEWER_00168,ASIN_4743,Wonderful wonderful! Best purchase ever! Amazing quality amazing price!,Wonderful wonderful! Best purchase ever! Amazing q,5.0,False,1623344479,1,fake
+REVIEWER_00169,ASIN_7992,Horrible experience. Wrong item shipped and no resolution offered.,Horrible experience. Wrong item shipped and no res,2.0,True,1619945750,0,negative
+REVIEWER_00170,ASIN_8770,Great great great great great! Totally love it so much!!,Great great great great great! Totally love it so ,5.0,False,1611711820,1,fake
+REVIEWER_00171,ASIN_7105,Great quality item. Very happy with my purchase. Highly recommended!,Great quality item. Very happy with my purchase. H,4.0,True,1636697657,0,positive
+REVIEWER_00172,ASIN_7929,This product is absolutely amazing! Works perfectly and arrived on time.,This product is absolutely amazing! Works perfectl,5.0,True,1638587538,0,positive
+REVIEWER_00173,ASIN_9313,The product feels very cheap. Material is low quality plastic.,The product feels very cheap. Material is low qual,2.0,True,1616597529,0,quality
+REVIEWER_00174,ASIN_7022,Really impressed with the build quality. Delivery was super fast.,Really impressed with the build quality. Delivery ,4.0,True,1613314111,0,positive
+REVIEWER_00175,ASIN_1430,The courier lost my package and it arrived two weeks after expected.,The courier lost my package and it arrived two wee,1.0,True,1629893678,0,delivery
+REVIEWER_00176,ASIN_6567,The stitching fell apart within a week. Terrible quality control. Good value.,The stitching fell apart within a week. Terrible q,1.0,True,1621237591,0,quality
+REVIEWER_00177,ASIN_1502,Exceeded my expectations. Fast shipping and excellent packaging. Good value.,Exceeded my expectations. Fast shipping and excell,5.0,True,1612538076,0,positive
+REVIEWER_00178,ASIN_6585,PERFECT PERFECT PERFECT!! Everyone should buy this immediately!!!,PERFECT PERFECT PERFECT!! Everyone should buy this,5.0,False,1614740978,1,fake
+REVIEWER_00179,ASIN_1815,This is garbage. Stopped working after a week. Requesting refund.,This is garbage. Stopped working after a week. Req,1.0,True,1632073837,0,negative
+REVIEWER_00180,ASIN_5475,Really impressed with the build quality. Delivery was super fast.,Really impressed with the build quality. Delivery ,5.0,True,1616692494,0,positive
+REVIEWER_00181,ASIN_8972,Package arrived three weeks late. Completely unacceptable.,Package arrived three weeks late. Completely unacc,2.0,True,1627140174,0,delivery
+REVIEWER_00182,ASIN_1897,Best product ever! Amazing! Buy now! You will love it! Five stars!,Best product ever! Amazing! Buy now! You will love,5.0,False,1609717135,1,fake
+REVIEWER_00183,ASIN_2965,"Perfect product, exactly as described. Will definitely buy again.","Perfect product, exactly as described. Will defini",4.0,True,1609718572,0,positive
+REVIEWER_00184,ASIN_9196,Awful product. Complete waste of money. Zero stars if I could. Very useful item.,Awful product. Complete waste of money. Zero stars,1.0,True,1628206851,0,negative
+REVIEWER_00185,ASIN_8147,Delivery was delayed by ten days. Very poor logistics.,Delivery was delayed by ten days. Very poor logist,1.0,True,1610088061,0,delivery
+REVIEWER_00186,ASIN_7843,Very disappointed. Product looks nothing like the pictures.,Very disappointed. Product looks nothing like the ,2.0,True,1619173718,0,negative
+REVIEWER_00187,ASIN_6928,This product is absolutely amazing! Works perfectly and arrived on time. Very useful item.,This product is absolutely amazing! Works perfectl,5.0,True,1612416348,0,positive
+REVIEWER_00188,ASIN_2288,Very disappointed. Product looks nothing like the pictures.,Very disappointed. Product looks nothing like the ,1.0,True,1622738926,0,negative
+REVIEWER_00189,ASIN_9363,The stitching fell apart within a week. Terrible quality control.,The stitching fell apart within a week. Terrible q,1.0,True,1630706694,0,quality
+REVIEWER_00190,ASIN_3419,Love this product! It has made my daily routine so much easier.,Love this product! It has made my daily routine so,4.0,True,1617387067,0,positive
+REVIEWER_00191,ASIN_2234,Outstanding quality. My family loves it. Five stars all the way! Great gift idea.,Outstanding quality. My family loves it. Five star,4.0,True,1615403237,0,positive
+REVIEWER_00192,ASIN_8354,Customer care is rude and unhelpful. Will never shop here again.,Customer care is rude and unhelpful. Will never sh,2.0,True,1632314246,0,service
+REVIEWER_00193,ASIN_3473,Motor broke after three days. Extremely poor build quality.,Motor broke after three days. Extremely poor build,2.0,True,1624215191,0,quality
+REVIEWER_00194,ASIN_6766,Really impressed with the build quality. Delivery was super fast.,Really impressed with the build quality. Delivery ,5.0,True,1626482601,0,positive
+REVIEWER_00195,ASIN_2257,Really impressed with the build quality. Delivery was super fast. Would buy again.,Really impressed with the build quality. Delivery ,5.0,True,1631090617,0,positive
+REVIEWER_00196,ASIN_1672,The product feels very cheap. Material is low quality plastic.,The product feels very cheap. Material is low qual,2.0,True,1624549758,0,quality
+REVIEWER_00197,ASIN_3471,Motor broke after three days. Extremely poor build quality.,Motor broke after three days. Extremely poor build,1.0,True,1611535336,0,quality
+REVIEWER_00198,ASIN_5059,This is garbage. Stopped working after a week. Requesting refund.,This is garbage. Stopped working after a week. Req,1.0,True,1633203044,0,negative
+REVIEWER_00199,ASIN_7347,Horrible experience. Wrong item shipped and no resolution offered.,Horrible experience. Wrong item shipped and no res,1.0,True,1623175224,0,negative
+REVIEWER_00200,ASIN_2079,The courier lost my package and it arrived two weeks after expected.,The courier lost my package and it arrived two wee,1.0,True,1620521786,0,delivery
+REVIEWER_00201,ASIN_3463,Fantastic! Works like a charm. Great value for money. Good value.,Fantastic! Works like a charm. Great value for mon,5.0,True,1620644973,0,positive
+REVIEWER_00202,ASIN_7421,Exceeded my expectations. Fast shipping and excellent packaging.,Exceeded my expectations. Fast shipping and excell,5.0,True,1613786099,0,positive
+REVIEWER_00203,ASIN_6381,"Average product. Some things work well, others not so much.","Average product. Some things work well, others not",3.0,True,1636745153,0,neutral
+REVIEWER_00204,ASIN_6928,Love this product! It has made my daily routine so much easier.,Love this product! It has made my daily routine so,4.0,True,1610070915,0,positive
+REVIEWER_00205,ASIN_4145,Arrived damaged and customer service was useless. Never buying again.,Arrived damaged and customer service was useless. ,1.0,True,1617060723,0,negative
+REVIEWER_00206,ASIN_9843,Contacted support five times with no resolution whatsoever. Bought for my wife.,Contacted support five times with no resolution wh,1.0,True,1637481171,0,service
+REVIEWER_00207,ASIN_3147,Wonderful wonderful! Best purchase ever! Amazing quality amazing price!,Wonderful wonderful! Best purchase ever! Amazing q,5.0,False,1629499465,1,fake
+REVIEWER_00208,ASIN_3712,Arrived damaged and customer service was useless. Never buying again.,Arrived damaged and customer service was useless. ,1.0,True,1633658085,0,negative
+REVIEWER_00209,ASIN_8277,Awful product. Complete waste of money. Zero stars if I could.,Awful product. Complete waste of money. Zero stars,2.0,True,1629947382,0,negative
+REVIEWER_00210,ASIN_8684,Really impressed with the build quality. Delivery was super fast.,Really impressed with the build quality. Delivery ,4.0,True,1639791545,0,positive
+REVIEWER_00211,ASIN_7256,Delivery was delayed by ten days. Very poor logistics.,Delivery was delayed by ten days. Very poor logist,2.0,True,1626333948,0,delivery
+REVIEWER_00212,ASIN_5096,Decent enough. Delivery was on time but the item is just average.,Decent enough. Delivery was on time but the item i,3.0,True,1611210063,0,neutral
+REVIEWER_00213,ASIN_3042,Mediocre quality but acceptable for the price point.,Mediocre quality but acceptable for the price poin,3.0,True,1619024327,0,neutral
+REVIEWER_00214,ASIN_8167,Exceeded my expectations. Fast shipping and excellent packaging.,Exceeded my expectations. Fast shipping and excell,5.0,True,1612536596,0,positive
+REVIEWER_00215,ASIN_7797,Paint chipped off after one use. Very poor manufacturing.,Paint chipped off after one use. Very poor manufac,2.0,True,1611246204,0,quality
+REVIEWER_00216,ASIN_4678,This is garbage. Stopped working after a week. Requesting refund.,This is garbage. Stopped working after a week. Req,1.0,True,1610405017,0,negative
+REVIEWER_00217,ASIN_5700,Very disappointed. Product looks nothing like the pictures.,Very disappointed. Product looks nothing like the ,2.0,True,1640241907,0,negative
+REVIEWER_00218,ASIN_2298,Shipping took forever. My order was stuck in transit for two weeks.,Shipping took forever. My order was stuck in trans,2.0,True,1610096864,1,delivery
+REVIEWER_00219,ASIN_2996,Exceeded my expectations. Fast shipping and excellent packaging. Would buy again.,Exceeded my expectations. Fast shipping and excell,5.0,True,1611061405,0,positive
+REVIEWER_00220,ASIN_1269,Incredible product. Customer support was also very helpful. Recommend to friends.,Incredible product. Customer support was also very,5.0,True,1630664089,0,positive
+REVIEWER_00221,ASIN_4941,"Not bad, not great either. Might be useful for some people. Bought for my wife.","Not bad, not great either. Might be useful for som",3.0,True,1628607496,0,neutral
+REVIEWER_00222,ASIN_9316,Very disappointed. Product looks nothing like the pictures. Very useful item.,Very disappointed. Product looks nothing like the ,2.0,True,1628053454,0,negative
+REVIEWER_00223,ASIN_5155,Really impressed with the build quality. Delivery was super fast.,Really impressed with the build quality. Delivery ,4.0,True,1634534983,0,positive
+REVIEWER_00224,ASIN_6447,Great quality item. Very happy with my purchase. Highly recommended! Good value.,Great quality item. Very happy with my purchase. H,5.0,True,1613935683,0,positive
+REVIEWER_00225,ASIN_8612,Love this product! It has made my daily routine so much easier.,Love this product! It has made my daily routine so,5.0,True,1632792591,0,positive
+REVIEWER_00226,ASIN_4302,Arrived damaged and customer service was useless. Never buying again. Recommend to friends.,Arrived damaged and customer service was useless. ,1.0,True,1610929094,1,negative
+REVIEWER_00227,ASIN_9897,Package arrived three weeks late. Completely unacceptable.,Package arrived three weeks late. Completely unacc,2.0,True,1625343860,0,delivery
+REVIEWER_00228,ASIN_6438,"Perfect product, exactly as described. Will definitely buy again.","Perfect product, exactly as described. Will defini",5.0,True,1618626828,0,positive
+REVIEWER_00229,ASIN_7334,"Wonderful item, very well made. Arrived earlier than expected.","Wonderful item, very well made. Arrived earlier th",5.0,True,1620835381,0,positive
+REVIEWER_00230,ASIN_5369,Customer care is rude and unhelpful. Will never shop here again.,Customer care is rude and unhelpful. Will never sh,2.0,True,1636341269,0,service
+REVIEWER_00231,ASIN_3956,Fantastic! Works like a charm. Great value for money.,Fantastic! Works like a charm. Great value for mon,4.0,True,1627762283,0,positive
+REVIEWER_00232,ASIN_8305,Great quality item. Very happy with my purchase. Highly recommended!,Great quality item. Very happy with my purchase. H,4.0,True,1629679826,0,positive
+REVIEWER_00233,ASIN_1693,PERFECT PERFECT PERFECT!! Everyone should buy this immediately!!!,PERFECT PERFECT PERFECT!! Everyone should buy this,5.0,False,1633847044,1,fake
+REVIEWER_00234,ASIN_7655,The stitching fell apart within a week. Terrible quality control. Bought for my wife.,The stitching fell apart within a week. Terrible q,2.0,True,1621649898,0,quality
+REVIEWER_00235,ASIN_8179,Decent enough. Delivery was on time but the item is just average. Very useful item.,Decent enough. Delivery was on time but the item i,3.0,True,1610626859,0,neutral
+REVIEWER_00236,ASIN_1530,"Perfect product, exactly as described. Will definitely buy again.","Perfect product, exactly as described. Will defini",5.0,True,1629762813,0,positive
+REVIEWER_00237,ASIN_3255,Really impressed with the build quality. Delivery was super fast.,Really impressed with the build quality. Delivery ,5.0,True,1627224925,0,positive
+REVIEWER_00238,ASIN_4048,This is garbage. Stopped working after a week. Requesting refund. Bought for my wife.,This is garbage. Stopped working after a week. Req,2.0,True,1626204336,1,negative
+REVIEWER_00239,ASIN_4515,"Average product. Some things work well, others not so much.","Average product. Some things work well, others not",3.0,True,1629990391,0,neutral
+REVIEWER_00240,ASIN_8292,Really impressed with the build quality. Delivery was super fast. Bought for my wife.,Really impressed with the build quality. Delivery ,4.0,True,1612404968,0,positive
+REVIEWER_00241,ASIN_5757,Delivery was delayed by ten days. Very poor logistics.,Delivery was delayed by ten days. Very poor logist,2.0,True,1639367328,0,delivery
+REVIEWER_00242,ASIN_2988,Exceeded my expectations. Fast shipping and excellent packaging.,Exceeded my expectations. Fast shipping and excell,4.0,True,1616202982,0,positive
+REVIEWER_00243,ASIN_8657,Shipping took forever. My order was stuck in transit for two weeks. Very useful item.,Shipping took forever. My order was stuck in trans,2.0,True,1636425612,0,delivery
+REVIEWER_00244,ASIN_8842,Contacted support five times with no resolution whatsoever. Recommend to friends.,Contacted support five times with no resolution wh,1.0,True,1627098619,0,service
+REVIEWER_00245,ASIN_8372,Awful product. Complete waste of money. Zero stars if I could. Would buy again.,Awful product. Complete waste of money. Zero stars,1.0,True,1625089968,0,negative
+REVIEWER_00246,ASIN_3981,Great great great great great! Totally love it so much!!,Great great great great great! Totally love it so ,5.0,False,1635221676,1,fake
+REVIEWER_00247,ASIN_5982,Customer care is rude and unhelpful. Will never shop here again.,Customer care is rude and unhelpful. Will never sh,1.0,True,1614984174,0,service
+REVIEWER_00248,ASIN_5653,"Perfect product, exactly as described. Will definitely buy again.","Perfect product, exactly as described. Will defini",5.0,True,1637844025,0,positive
+REVIEWER_00249,ASIN_2530,"Perfect product, exactly as described. Will definitely buy again. Would buy again.","Perfect product, exactly as described. Will defini",5.0,True,1626322756,0,positive
+REVIEWER_00250,ASIN_6531,Decent enough. Delivery was on time but the item is just average.,Decent enough. Delivery was on time but the item i,3.0,True,1637729815,0,neutral
+REVIEWER_00251,ASIN_5336,The product feels very cheap. Material is low quality plastic. Good value.,The product feels very cheap. Material is low qual,1.0,True,1631307496,0,quality
+REVIEWER_00252,ASIN_9938,Incredible product. Customer support was also very helpful.,Incredible product. Customer support was also very,5.0,True,1619178967,1,positive
+REVIEWER_00253,ASIN_8430,Works as described. Nothing exceptional though. Good value.,Works as described. Nothing exceptional though. Go,3.0,True,1611907768,0,neutral
+REVIEWER_00254,ASIN_8609,PERFECT PERFECT PERFECT!! Everyone should buy this immediately!!!,PERFECT PERFECT PERFECT!! Everyone should buy this,5.0,False,1616305076,1,fake
+REVIEWER_00255,ASIN_6658,Arrived damaged and customer service was useless. Never buying again.,Arrived damaged and customer service was useless. ,2.0,True,1622837909,0,negative
+REVIEWER_00256,ASIN_5382,"Wonderful item, very well made. Arrived earlier than expected.","Wonderful item, very well made. Arrived earlier th",4.0,True,1624545138,0,positive
+REVIEWER_00257,ASIN_7850,Great quality item. Very happy with my purchase. Highly recommended! Recommend to friends.,Great quality item. Very happy with my purchase. H,4.0,True,1617789768,0,positive
+REVIEWER_00258,ASIN_4110,Contacted support five times with no resolution whatsoever.,Contacted support five times with no resolution wh,2.0,True,1635065304,0,service
+REVIEWER_00259,ASIN_1379,Love this product! It has made my daily routine so much easier.,Love this product! It has made my daily routine so,5.0,True,1612480746,0,positive
+REVIEWER_00260,ASIN_6781,Motor broke after three days. Extremely poor build quality.,Motor broke after three days. Extremely poor build,2.0,True,1611091896,0,quality
+REVIEWER_00261,ASIN_8060,Really impressed with the build quality. Delivery was super fast. Bought for my wife.,Really impressed with the build quality. Delivery ,5.0,True,1613953310,0,positive
+REVIEWER_00262,ASIN_4189,The stitching fell apart within a week. Terrible quality control.,The stitching fell apart within a week. Terrible q,2.0,True,1621623479,0,quality
+REVIEWER_00263,ASIN_5582,"Average product. Some things work well, others not so much.","Average product. Some things work well, others not",3.0,True,1637152052,0,neutral
+REVIEWER_00264,ASIN_6555,No response from seller after multiple complaints. Avoid. Bought for my wife.,No response from seller after multiple complaints.,1.0,True,1628176930,0,service
+REVIEWER_00265,ASIN_1659,Paint chipped off after one use. Very poor manufacturing.,Paint chipped off after one use. Very poor manufac,1.0,True,1610979328,0,quality
+REVIEWER_00266,ASIN_9446,"Wonderful item, very well made. Arrived earlier than expected.","Wonderful item, very well made. Arrived earlier th",5.0,True,1614149471,0,positive
+REVIEWER_00267,ASIN_5902,Do not buy this. It broke immediately and smells strange. Very useful item.,Do not buy this. It broke immediately and smells s,2.0,True,1629381293,0,negative
+REVIEWER_00268,ASIN_1272,Cheaply made. The description is completely misleading.,Cheaply made. The description is completely mislea,2.0,True,1621819237,0,negative
+REVIEWER_00269,ASIN_1436,Very disappointed. Product looks nothing like the pictures.,Very disappointed. Product looks nothing like the ,2.0,True,1629488163,0,negative
+REVIEWER_00270,ASIN_3793,Do not buy this. It broke immediately and smells strange.,Do not buy this. It broke immediately and smells s,1.0,True,1627049518,0,negative
+REVIEWER_00271,ASIN_2800,"Does the job, but there are probably better options available.","Does the job, but there are probably better option",3.0,True,1615860859,0,neutral
+REVIEWER_00272,ASIN_9221,"Wonderful item, very well made. Arrived earlier than expected. Good value.","Wonderful item, very well made. Arrived earlier th",5.0,True,1635462955,0,positive
+REVIEWER_00273,ASIN_6325,Neither impressed nor disappointed. Just an ordinary product.,Neither impressed nor disappointed. Just an ordina,3.0,True,1631679844,0,neutral
+REVIEWER_00274,ASIN_9734,Awful product. Complete waste of money. Zero stars if I could.,Awful product. Complete waste of money. Zero stars,2.0,True,1620945788,0,negative
+REVIEWER_00275,ASIN_5890,Works as described. Nothing exceptional though. Great gift idea.,Works as described. Nothing exceptional though. Gr,3.0,True,1617004485,0,neutral
+REVIEWER_00276,ASIN_9011,The stitching fell apart within a week. Terrible quality control.,The stitching fell apart within a week. Terrible q,2.0,True,1620097322,0,quality
+REVIEWER_00277,ASIN_7220,Cheaply made. The description is completely misleading. Very useful item.,Cheaply made. The description is completely mislea,2.0,True,1639515933,0,negative
+REVIEWER_00278,ASIN_2294,Return process is a nightmare. They keep asking for more documents. Would buy again.,Return process is a nightmare. They keep asking fo,1.0,True,1621081230,0,service
+REVIEWER_00279,ASIN_5450,The stitching fell apart within a week. Terrible quality control. Very useful item.,The stitching fell apart within a week. Terrible q,2.0,True,1614065316,0,quality
+REVIEWER_00280,ASIN_4697,Incredible product. Customer support was also very helpful. Good value.,Incredible product. Customer support was also very,4.0,True,1630865067,0,positive
+REVIEWER_00281,ASIN_3252,Great quality item. Very happy with my purchase. Highly recommended!,Great quality item. Very happy with my purchase. H,5.0,True,1609633060,0,positive
+REVIEWER_00282,ASIN_8793,Contacted support five times with no resolution whatsoever.,Contacted support five times with no resolution wh,2.0,True,1625479713,0,service
+REVIEWER_00283,ASIN_2465,Great great great great great! Totally love it so much!! Bought for my wife.,Great great great great great! Totally love it so ,5.0,False,1631346713,1,fake
+REVIEWER_00284,ASIN_1595,It is okay for the price. Does what it says but nothing special.,It is okay for the price. Does what it says but no,3.0,True,1637517523,0,neutral
+REVIEWER_00285,ASIN_5742,Horrible experience. Wrong item shipped and no resolution offered.,Horrible experience. Wrong item shipped and no res,1.0,True,1638877819,0,negative
+REVIEWER_00286,ASIN_8444,Outstanding quality. My family loves it. Five stars all the way!,Outstanding quality. My family loves it. Five star,4.0,True,1630978073,0,positive
+REVIEWER_00287,ASIN_4159,Neither impressed nor disappointed. Just an ordinary product.,Neither impressed nor disappointed. Just an ordina,3.0,True,1636598490,0,neutral
+REVIEWER_00288,ASIN_1230,Exceeded my expectations. Fast shipping and excellent packaging.,Exceeded my expectations. Fast shipping and excell,5.0,True,1634175995,0,positive
+REVIEWER_00289,ASIN_8007,Late delivery and the item was defective. Extremely frustrating. Good value.,Late delivery and the item was defective. Extremel,1.0,True,1626749149,0,negative
+REVIEWER_00290,ASIN_5064,Awful product. Complete waste of money. Zero stars if I could. Great gift idea.,Awful product. Complete waste of money. Zero stars,1.0,True,1609688380,0,negative
+REVIEWER_00291,ASIN_5947,"Perfect product, exactly as described. Will definitely buy again.","Perfect product, exactly as described. Will defini",5.0,True,1629003339,0,positive
+REVIEWER_00292,ASIN_4871,Best product ever! Amazing! Buy now! You will love it! Five stars!,Best product ever! Amazing! Buy now! You will love,5.0,False,1611543746,1,fake
+REVIEWER_00293,ASIN_9233,Absolutely the best thing I have ever bought. 10/10 would recommend!!!! Good value.,Absolutely the best thing I have ever bought. 10/1,5.0,False,1640433497,1,fake
+REVIEWER_00294,ASIN_7021,The stitching fell apart within a week. Terrible quality control.,The stitching fell apart within a week. Terrible q,1.0,True,1630082607,0,quality
+REVIEWER_00295,ASIN_7121,Exceeded my expectations. Fast shipping and excellent packaging. Good value.,Exceeded my expectations. Fast shipping and excell,5.0,True,1623412663,0,positive
+REVIEWER_00296,ASIN_2341,Absolutely the best thing I have ever bought. 10/10 would recommend!!!!,Absolutely the best thing I have ever bought. 10/1,5.0,False,1627092277,1,fake
+REVIEWER_00297,ASIN_9972,This is garbage. Stopped working after a week. Requesting refund.,This is garbage. Stopped working after a week. Req,1.0,True,1639755099,0,negative
+REVIEWER_00298,ASIN_2904,Decent enough. Delivery was on time but the item is just average.,Decent enough. Delivery was on time but the item i,3.0,True,1632286120,0,neutral
+REVIEWER_00299,ASIN_1911,Incredible product. Customer support was also very helpful. Very useful item.,Incredible product. Customer support was also very,5.0,True,1624673863,0,positive
+REVIEWER_00300,ASIN_6049,Fantastic! Works like a charm. Great value for money.,Fantastic! Works like a charm. Great value for mon,5.0,True,1633728452,0,positive
+REVIEWER_00301,ASIN_1742,Outstanding quality. My family loves it. Five stars all the way!,Outstanding quality. My family loves it. Five star,4.0,True,1623676125,0,positive
+REVIEWER_00302,ASIN_8734,Very disappointed. Product looks nothing like the pictures.,Very disappointed. Product looks nothing like the ,1.0,True,1610524045,0,negative
+REVIEWER_00303,ASIN_7887,Exceeded my expectations. Fast shipping and excellent packaging.,Exceeded my expectations. Fast shipping and excell,4.0,True,1622024023,0,positive
+REVIEWER_00304,ASIN_7154,Customer care is rude and unhelpful. Will never shop here again.,Customer care is rude and unhelpful. Will never sh,2.0,True,1612151942,0,service
+REVIEWER_00305,ASIN_6697,Wonderful wonderful! Best purchase ever! Amazing quality amazing price!,Wonderful wonderful! Best purchase ever! Amazing q,5.0,False,1613439868,1,fake
+REVIEWER_00306,ASIN_4648,Love this product! It has made my daily routine so much easier.,Love this product! It has made my daily routine so,5.0,True,1637471165,0,positive
+REVIEWER_00307,ASIN_7948,This product is absolutely amazing! Works perfectly and arrived on time.,This product is absolutely amazing! Works perfectl,5.0,True,1627307930,0,positive
+REVIEWER_00308,ASIN_4088,Poor quality materials. Falls apart easily. Do not buy.,Poor quality materials. Falls apart easily. Do not,1.0,True,1640913472,0,negative
+REVIEWER_00309,ASIN_1256,The product feels very cheap. Material is low quality plastic.,The product feels very cheap. Material is low qual,1.0,True,1617534620,0,quality
+REVIEWER_00310,ASIN_1797,Great quality item. Very happy with my purchase. Highly recommended!,Great quality item. Very happy with my purchase. H,4.0,True,1617671115,0,positive
+REVIEWER_00311,ASIN_1924,Absolutely the best thing I have ever bought. 10/10 would recommend!!!! Great gift idea.,Absolutely the best thing I have ever bought. 10/1,5.0,False,1614161369,1,fake
+REVIEWER_00312,ASIN_6224,Works as described. Nothing exceptional though.,Works as described. Nothing exceptional though.,3.0,True,1628836039,0,neutral
+REVIEWER_00313,ASIN_9540,Mediocre quality but acceptable for the price point.,Mediocre quality but acceptable for the price poin,3.0,True,1616876163,0,neutral
+REVIEWER_00314,ASIN_3869,Late delivery and the item was defective. Extremely frustrating.,Late delivery and the item was defective. Extremel,1.0,True,1630464044,0,negative
+REVIEWER_00315,ASIN_7244,Wonderful wonderful! Best purchase ever! Amazing quality amazing price! Would buy again.,Wonderful wonderful! Best purchase ever! Amazing q,5.0,False,1635826426,1,fake
+REVIEWER_00316,ASIN_9813,"Does the job, but there are probably better options available. Recommend to friends.","Does the job, but there are probably better option",3.0,True,1625347855,0,neutral
+REVIEWER_00317,ASIN_8586,"Perfect product, exactly as described. Will definitely buy again.","Perfect product, exactly as described. Will defini",5.0,True,1640152820,0,positive
+REVIEWER_00318,ASIN_4978,Fantastic! Works like a charm. Great value for money.,Fantastic! Works like a charm. Great value for mon,5.0,True,1618015434,0,positive
+REVIEWER_00319,ASIN_4120,Great quality item. Very happy with my purchase. Highly recommended!,Great quality item. Very happy with my purchase. H,5.0,True,1611188482,0,positive
+REVIEWER_00320,ASIN_4555,Incredible product. Customer support was also very helpful.,Incredible product. Customer support was also very,4.0,True,1625545000,0,positive
+REVIEWER_00321,ASIN_4113,"Wonderful item, very well made. Arrived earlier than expected.","Wonderful item, very well made. Arrived earlier th",5.0,True,1634338979,1,positive
+REVIEWER_00322,ASIN_7498,Really impressed with the build quality. Delivery was super fast.,Really impressed with the build quality. Delivery ,4.0,True,1640165748,0,positive
+REVIEWER_00323,ASIN_6886,"Wonderful item, very well made. Arrived earlier than expected.","Wonderful item, very well made. Arrived earlier th",5.0,True,1619808134,0,positive
+REVIEWER_00324,ASIN_8692,Love this product! It has made my daily routine so much easier.,Love this product! It has made my daily routine so,5.0,True,1635015227,0,positive
+REVIEWER_00325,ASIN_4625,Shipping took forever. My order was stuck in transit for two weeks.,Shipping took forever. My order was stuck in trans,2.0,True,1634331502,1,delivery
+REVIEWER_00326,ASIN_7223,Outstanding quality. My family loves it. Five stars all the way! Great gift idea.,Outstanding quality. My family loves it. Five star,5.0,True,1628578163,0,positive
+REVIEWER_00327,ASIN_9037,Item arrived damaged due to bad packaging during shipping. Recommend to friends.,Item arrived damaged due to bad packaging during s,2.0,True,1624922055,0,delivery
+REVIEWER_00328,ASIN_9882,"Wonderful item, very well made. Arrived earlier than expected. Very useful item.","Wonderful item, very well made. Arrived earlier th",4.0,True,1630994751,0,positive
+REVIEWER_00329,ASIN_1794,No response from seller after multiple complaints. Avoid.,No response from seller after multiple complaints.,1.0,True,1635106155,0,service
+REVIEWER_00330,ASIN_9285,Exceeded my expectations. Fast shipping and excellent packaging. Great gift idea.,Exceeded my expectations. Fast shipping and excell,4.0,True,1624760345,1,positive
+REVIEWER_00331,ASIN_9719,Do not buy this. It broke immediately and smells strange.,Do not buy this. It broke immediately and smells s,2.0,True,1627969286,1,negative
+REVIEWER_00332,ASIN_9228,Terrible quality. Broke after just two days. Total waste of money.,Terrible quality. Broke after just two days. Total,2.0,True,1636744228,0,negative
+REVIEWER_00333,ASIN_9591,Absolutely the best thing I have ever bought. 10/10 would recommend!!!! Bought for my wife.,Absolutely the best thing I have ever bought. 10/1,5.0,False,1614455370,1,fake
+REVIEWER_00334,ASIN_7502,Incredible product. Customer support was also very helpful.,Incredible product. Customer support was also very,5.0,True,1612110645,0,positive
+REVIEWER_00335,ASIN_4700,Awful product. Complete waste of money. Zero stars if I could.,Awful product. Complete waste of money. Zero stars,2.0,True,1619524678,0,negative
+REVIEWER_00336,ASIN_7179,Best product ever! Amazing! Buy now! You will love it! Five stars! Recommend to friends.,Best product ever! Amazing! Buy now! You will love,5.0,False,1628004782,1,fake
+REVIEWER_00337,ASIN_6427,Terrible quality. Broke after just two days. Total waste of money. Recommend to friends.,Terrible quality. Broke after just two days. Total,1.0,True,1628446197,0,negative
+REVIEWER_00338,ASIN_8790,Customer service refused to process my refund. Horrible experience. Good value.,Customer service refused to process my refund. Hor,1.0,True,1618555640,0,service
+REVIEWER_00339,ASIN_1539,Great quality item. Very happy with my purchase. Highly recommended!,Great quality item. Very happy with my purchase. H,5.0,True,1615477338,0,positive
+REVIEWER_00340,ASIN_7525,The stitching fell apart within a week. Terrible quality control.,The stitching fell apart within a week. Terrible q,1.0,True,1640627071,0,quality
+REVIEWER_00341,ASIN_9856,Exceeded my expectations. Fast shipping and excellent packaging.,Exceeded my expectations. Fast shipping and excell,4.0,True,1620590206,0,positive
+REVIEWER_00342,ASIN_1879,Arrived damaged and customer service was useless. Never buying again.,Arrived damaged and customer service was useless. ,1.0,True,1612736991,0,negative
+REVIEWER_00343,ASIN_7499,Very disappointed. Product looks nothing like the pictures.,Very disappointed. Product looks nothing like the ,2.0,True,1635415395,0,negative
+REVIEWER_00344,ASIN_7150,Late delivery and the item was defective. Extremely frustrating.,Late delivery and the item was defective. Extremel,2.0,True,1623949612,0,negative
+REVIEWER_00345,ASIN_5037,Incredible product. Customer support was also very helpful. Very useful item.,Incredible product. Customer support was also very,5.0,True,1633387151,0,positive
+REVIEWER_00346,ASIN_3527,Outstanding quality. My family loves it. Five stars all the way!,Outstanding quality. My family loves it. Five star,4.0,True,1634277913,0,positive
+REVIEWER_00347,ASIN_5419,This is garbage. Stopped working after a week. Requesting refund. Would buy again.,This is garbage. Stopped working after a week. Req,1.0,True,1612889517,0,negative
+REVIEWER_00348,ASIN_7685,Exceeded my expectations. Fast shipping and excellent packaging.,Exceeded my expectations. Fast shipping and excell,5.0,True,1612925135,0,positive
+REVIEWER_00349,ASIN_7311,"Wonderful item, very well made. Arrived earlier than expected.","Wonderful item, very well made. Arrived earlier th",4.0,True,1609873282,0,positive
+REVIEWER_00350,ASIN_4977,Fantastic! Works like a charm. Great value for money.,Fantastic! Works like a charm. Great value for mon,4.0,True,1628651007,0,positive
+REVIEWER_00351,ASIN_3390,"Does the job, but there are probably better options available. Would buy again.","Does the job, but there are probably better option",3.0,True,1611582093,0,neutral
+REVIEWER_00352,ASIN_5040,Outstanding quality. My family loves it. Five stars all the way! Bought for my wife.,Outstanding quality. My family loves it. Five star,5.0,True,1633648571,0,positive
+REVIEWER_00353,ASIN_7483,"Not bad, not great either. Might be useful for some people. Would buy again.","Not bad, not great either. Might be useful for som",3.0,True,1620606559,1,neutral
+REVIEWER_00354,ASIN_3230,Item arrived damaged due to bad packaging during shipping.,Item arrived damaged due to bad packaging during s,2.0,True,1619540135,0,delivery
+REVIEWER_00355,ASIN_6228,Poor quality materials. Falls apart easily. Do not buy.,Poor quality materials. Falls apart easily. Do not,2.0,True,1619238577,0,negative
+REVIEWER_00356,ASIN_5592,Absolutely the best thing I have ever bought. 10/10 would recommend!!!!,Absolutely the best thing I have ever bought. 10/1,5.0,False,1636856209,1,fake
+REVIEWER_00357,ASIN_9939,Delivery was delayed by ten days. Very poor logistics.,Delivery was delayed by ten days. Very poor logist,1.0,True,1615496555,0,delivery
+REVIEWER_00358,ASIN_8563,Wonderful wonderful! Best purchase ever! Amazing quality amazing price!,Wonderful wonderful! Best purchase ever! Amazing q,5.0,False,1633228054,1,fake
+REVIEWER_00359,ASIN_7703,Outstanding quality. My family loves it. Five stars all the way!,Outstanding quality. My family loves it. Five star,4.0,True,1632040582,0,positive
+REVIEWER_00360,ASIN_7176,Late delivery and the item was defective. Extremely frustrating. Great gift idea.,Late delivery and the item was defective. Extremel,1.0,True,1611941058,0,negative
+REVIEWER_00361,ASIN_7853,Do not buy this. It broke immediately and smells strange.,Do not buy this. It broke immediately and smells s,2.0,True,1627700906,0,negative
+REVIEWER_00362,ASIN_6816,"Wonderful item, very well made. Arrived earlier than expected. Great gift idea.","Wonderful item, very well made. Arrived earlier th",4.0,True,1615040593,0,positive
+REVIEWER_00363,ASIN_8052,It is okay for the price. Does what it says but nothing special.,It is okay for the price. Does what it says but no,3.0,True,1613014109,0,neutral
+REVIEWER_00364,ASIN_4621,Outstanding quality. My family loves it. Five stars all the way!,Outstanding quality. My family loves it. Five star,4.0,True,1624417046,0,positive
+REVIEWER_00365,ASIN_2712,Horrible experience. Wrong item shipped and no resolution offered.,Horrible experience. Wrong item shipped and no res,1.0,True,1619372260,1,negative
+REVIEWER_00366,ASIN_6707,Very disappointed. Product looks nothing like the pictures.,Very disappointed. Product looks nothing like the ,1.0,True,1619924503,0,negative
+REVIEWER_00367,ASIN_8412,Poor quality materials. Falls apart easily. Do not buy.,Poor quality materials. Falls apart easily. Do not,2.0,True,1620160026,0,negative
+REVIEWER_00368,ASIN_3692,This product is absolutely amazing! Works perfectly and arrived on time. Would buy again.,This product is absolutely amazing! Works perfectl,4.0,True,1640662219,0,positive
+REVIEWER_00369,ASIN_7985,Contacted support five times with no resolution whatsoever.,Contacted support five times with no resolution wh,1.0,True,1624963164,0,service
+REVIEWER_00370,ASIN_1478,Fantastic! Works like a charm. Great value for money. Good value.,Fantastic! Works like a charm. Great value for mon,4.0,True,1634201847,0,positive
+REVIEWER_00371,ASIN_4519,"Not bad, not great either. Might be useful for some people.","Not bad, not great either. Might be useful for som",3.0,True,1616364181,0,neutral
+REVIEWER_00372,ASIN_6993,Great quality item. Very happy with my purchase. Highly recommended!,Great quality item. Very happy with my purchase. H,4.0,True,1620397438,0,positive
+REVIEWER_00373,ASIN_6134,Great quality item. Very happy with my purchase. Highly recommended!,Great quality item. Very happy with my purchase. H,5.0,True,1629490217,0,positive
+REVIEWER_00374,ASIN_3826,Awful product. Complete waste of money. Zero stars if I could.,Awful product. Complete waste of money. Zero stars,1.0,True,1636763724,0,negative
+REVIEWER_00375,ASIN_6131,Great great great great great! Totally love it so much!!,Great great great great great! Totally love it so ,5.0,False,1613413980,1,fake
+REVIEWER_00376,ASIN_7364,Great quality item. Very happy with my purchase. Highly recommended!,Great quality item. Very happy with my purchase. H,4.0,True,1623492975,0,positive
+REVIEWER_00377,ASIN_3838,"Does the job, but there are probably better options available. Good value.","Does the job, but there are probably better option",3.0,True,1628078976,0,neutral
+REVIEWER_00378,ASIN_6882,Outstanding quality. My family loves it. Five stars all the way! Recommend to friends.,Outstanding quality. My family loves it. Five star,4.0,True,1609780766,0,positive
+REVIEWER_00379,ASIN_9109,Poor quality materials. Falls apart easily. Do not buy.,Poor quality materials. Falls apart easily. Do not,2.0,True,1623187470,0,negative
+REVIEWER_00380,ASIN_2354,Absolutely the best thing I have ever bought. 10/10 would recommend!!!!,Absolutely the best thing I have ever bought. 10/1,5.0,False,1628430802,1,fake
+REVIEWER_00381,ASIN_3755,"Perfect product, exactly as described. Will definitely buy again. Great gift idea.","Perfect product, exactly as described. Will defini",5.0,True,1635656493,0,positive
+REVIEWER_00382,ASIN_9898,Horrible experience. Wrong item shipped and no resolution offered.,Horrible experience. Wrong item shipped and no res,1.0,True,1637083986,0,negative
+REVIEWER_00383,ASIN_4580,No response from seller after multiple complaints. Avoid.,No response from seller after multiple complaints.,1.0,True,1623725024,0,service
+REVIEWER_00384,ASIN_5305,"Perfect product, exactly as described. Will definitely buy again.","Perfect product, exactly as described. Will defini",5.0,True,1621155502,1,positive
+REVIEWER_00385,ASIN_4882,The product feels very cheap. Material is low quality plastic.,The product feels very cheap. Material is low qual,2.0,True,1616501542,0,quality
+REVIEWER_00386,ASIN_8015,The courier lost my package and it arrived two weeks after expected.,The courier lost my package and it arrived two wee,2.0,True,1615028618,0,delivery
+REVIEWER_00387,ASIN_9720,"Not bad, not great either. Might be useful for some people.","Not bad, not great either. Might be useful for som",3.0,True,1618890848,0,neutral
+REVIEWER_00388,ASIN_5380,Decent enough. Delivery was on time but the item is just average.,Decent enough. Delivery was on time but the item i,3.0,True,1638249467,0,neutral
+REVIEWER_00389,ASIN_1971,"Average product. Some things work well, others not so much.","Average product. Some things work well, others not",3.0,True,1618764633,0,neutral
+REVIEWER_00390,ASIN_5055,Paint chipped off after one use. Very poor manufacturing. Good value.,Paint chipped off after one use. Very poor manufac,1.0,True,1635010013,0,quality
+REVIEWER_00391,ASIN_7786,Item arrived damaged due to bad packaging during shipping. Good value.,Item arrived damaged due to bad packaging during s,2.0,True,1622047894,0,delivery
+REVIEWER_00392,ASIN_7046,Very disappointed. Product looks nothing like the pictures.,Very disappointed. Product looks nothing like the ,2.0,True,1624716254,0,negative
+REVIEWER_00393,ASIN_2526,Return process is a nightmare. They keep asking for more documents.,Return process is a nightmare. They keep asking fo,1.0,True,1633985205,0,service
+REVIEWER_00394,ASIN_8039,Return process is a nightmare. They keep asking for more documents.,Return process is a nightmare. They keep asking fo,1.0,True,1637136494,0,service
+REVIEWER_00395,ASIN_3139,Outstanding quality. My family loves it. Five stars all the way!,Outstanding quality. My family loves it. Five star,5.0,True,1628455776,0,positive
+REVIEWER_00396,ASIN_8529,The stitching fell apart within a week. Terrible quality control. Good value.,The stitching fell apart within a week. Terrible q,1.0,True,1610005511,0,quality
+REVIEWER_00397,ASIN_8009,Exceeded my expectations. Fast shipping and excellent packaging.,Exceeded my expectations. Fast shipping and excell,5.0,True,1616247872,0,positive
+REVIEWER_00398,ASIN_6905,Contacted support five times with no resolution whatsoever. Would buy again.,Contacted support five times with no resolution wh,2.0,True,1617860870,0,service
+REVIEWER_00399,ASIN_4836,Exceeded my expectations. Fast shipping and excellent packaging.,Exceeded my expectations. Fast shipping and excell,4.0,True,1623861800,0,positive
+REVIEWER_00400,ASIN_3174,Best product ever! Amazing! Buy now! You will love it! Five stars! Bought for my wife.,Best product ever! Amazing! Buy now! You will love,5.0,False,1629379778,1,fake
+REVIEWER_00401,ASIN_7919,Really impressed with the build quality. Delivery was super fast. Would buy again.,Really impressed with the build quality. Delivery ,4.0,True,1632747016,0,positive
+REVIEWER_00402,ASIN_2678,Great quality item. Very happy with my purchase. Highly recommended!,Great quality item. Very happy with my purchase. H,4.0,True,1612922068,0,positive
+REVIEWER_00403,ASIN_3181,Late delivery and the item was defective. Extremely frustrating.,Late delivery and the item was defective. Extremel,1.0,True,1630986923,0,negative
+REVIEWER_00404,ASIN_3688,Contacted support five times with no resolution whatsoever.,Contacted support five times with no resolution wh,1.0,True,1624226486,1,service
+REVIEWER_00405,ASIN_8248,Poor quality materials. Falls apart easily. Do not buy.,Poor quality materials. Falls apart easily. Do not,1.0,True,1638314754,0,negative
+REVIEWER_00406,ASIN_7291,Great quality item. Very happy with my purchase. Highly recommended!,Great quality item. Very happy with my purchase. H,4.0,True,1621254778,0,positive
+REVIEWER_00407,ASIN_5668,Return process is a nightmare. They keep asking for more documents. Good value.,Return process is a nightmare. They keep asking fo,1.0,True,1635597084,0,service
+REVIEWER_00408,ASIN_7418,The product feels very cheap. Material is low quality plastic. Very useful item.,The product feels very cheap. Material is low qual,2.0,True,1619375945,0,quality
+REVIEWER_00409,ASIN_2163,"Not bad, not great either. Might be useful for some people.","Not bad, not great either. Might be useful for som",3.0,True,1627185553,0,neutral
+REVIEWER_00410,ASIN_7895,The product feels very cheap. Material is low quality plastic.,The product feels very cheap. Material is low qual,2.0,True,1621720407,0,quality
+REVIEWER_00411,ASIN_1273,Decent enough. Delivery was on time but the item is just average.,Decent enough. Delivery was on time but the item i,3.0,True,1629167848,0,neutral
+REVIEWER_00412,ASIN_7520,Outstanding quality. My family loves it. Five stars all the way! Bought for my wife.,Outstanding quality. My family loves it. Five star,4.0,True,1626458231,0,positive
+REVIEWER_00413,ASIN_9791,Love this product! It has made my daily routine so much easier.,Love this product! It has made my daily routine so,5.0,True,1627499920,0,positive
+REVIEWER_00414,ASIN_4329,Works as described. Nothing exceptional though.,Works as described. Nothing exceptional though.,3.0,True,1636573197,0,neutral
+REVIEWER_00415,ASIN_2083,"Wonderful item, very well made. Arrived earlier than expected.","Wonderful item, very well made. Arrived earlier th",5.0,True,1619866761,0,positive
+REVIEWER_00416,ASIN_2900,PERFECT PERFECT PERFECT!! Everyone should buy this immediately!!! Recommend to friends.,PERFECT PERFECT PERFECT!! Everyone should buy this,5.0,False,1624671834,1,fake
+REVIEWER_00417,ASIN_3877,It is okay for the price. Does what it says but nothing special.,It is okay for the price. Does what it says but no,3.0,True,1613467042,0,neutral
+REVIEWER_00418,ASIN_5247,Exceeded my expectations. Fast shipping and excellent packaging. Would buy again.,Exceeded my expectations. Fast shipping and excell,4.0,True,1615061547,0,positive
+REVIEWER_00419,ASIN_8034,Late delivery and the item was defective. Extremely frustrating.,Late delivery and the item was defective. Extremel,1.0,True,1618585354,1,negative
+REVIEWER_00420,ASIN_1908,Works as described. Nothing exceptional though.,Works as described. Nothing exceptional though.,3.0,True,1626223329,0,neutral
+REVIEWER_00421,ASIN_2889,Paint chipped off after one use. Very poor manufacturing. Bought for my wife.,Paint chipped off after one use. Very poor manufac,2.0,True,1617123180,0,quality
+REVIEWER_00422,ASIN_1201,Best product ever! Amazing! Buy now! You will love it! Five stars!,Best product ever! Amazing! Buy now! You will love,5.0,False,1617664985,1,fake
+REVIEWER_00423,ASIN_1579,"Wonderful item, very well made. Arrived earlier than expected.","Wonderful item, very well made. Arrived earlier th",5.0,True,1628010263,0,positive
+REVIEWER_00424,ASIN_6241,Item arrived damaged due to bad packaging during shipping.,Item arrived damaged due to bad packaging during s,1.0,True,1618561106,0,delivery
+REVIEWER_00425,ASIN_3938,The courier lost my package and it arrived two weeks after expected. Good value.,The courier lost my package and it arrived two wee,2.0,True,1616948047,0,delivery
+REVIEWER_00426,ASIN_6090,Package arrived three weeks late. Completely unacceptable. Recommend to friends.,Package arrived three weeks late. Completely unacc,2.0,True,1620441596,0,delivery
+REVIEWER_00427,ASIN_5979,Really impressed with the build quality. Delivery was super fast.,Really impressed with the build quality. Delivery ,4.0,True,1634275252,0,positive
+REVIEWER_00428,ASIN_4201,Neither impressed nor disappointed. Just an ordinary product.,Neither impressed nor disappointed. Just an ordina,3.0,True,1634036591,0,neutral
+REVIEWER_00429,ASIN_9872,Paint chipped off after one use. Very poor manufacturing. Recommend to friends.,Paint chipped off after one use. Very poor manufac,1.0,True,1621083250,1,quality
+REVIEWER_00430,ASIN_6038,It is okay for the price. Does what it says but nothing special. Good value.,It is okay for the price. Does what it says but no,3.0,True,1612947150,0,neutral
+REVIEWER_00431,ASIN_3332,"Perfect product, exactly as described. Will definitely buy again.","Perfect product, exactly as described. Will defini",5.0,True,1633338294,0,positive
+REVIEWER_00432,ASIN_7102,This product is absolutely amazing! Works perfectly and arrived on time.,This product is absolutely amazing! Works perfectl,4.0,True,1624842498,0,positive
+REVIEWER_00433,ASIN_7461,Customer service refused to process my refund. Horrible experience.,Customer service refused to process my refund. Hor,1.0,True,1611970094,0,service
+REVIEWER_00434,ASIN_5778,It is okay for the price. Does what it says but nothing special.,It is okay for the price. Does what it says but no,3.0,True,1618216602,0,neutral
+REVIEWER_00435,ASIN_2223,Material is not as advertised. Feels very flimsy and fragile.,Material is not as advertised. Feels very flimsy a,2.0,True,1616261107,0,quality
+REVIEWER_00436,ASIN_6145,Incredible product. Customer support was also very helpful. Great gift idea.,Incredible product. Customer support was also very,4.0,True,1623099497,0,positive
+REVIEWER_00437,ASIN_2964,"Wonderful item, very well made. Arrived earlier than expected.","Wonderful item, very well made. Arrived earlier th",4.0,True,1612493221,0,positive
+REVIEWER_00438,ASIN_5066,Outstanding quality. My family loves it. Five stars all the way! Would buy again.,Outstanding quality. My family loves it. Five star,4.0,True,1621395946,0,positive
+REVIEWER_00439,ASIN_7625,Terrible quality. Broke after just two days. Total waste of money. Great gift idea.,Terrible quality. Broke after just two days. Total,2.0,True,1638134861,1,negative
+REVIEWER_00440,ASIN_3290,Cheaply made. The description is completely misleading. Bought for my wife.,Cheaply made. The description is completely mislea,1.0,True,1613534495,0,negative
+REVIEWER_00441,ASIN_2376,"Perfect product, exactly as described. Will definitely buy again. Recommend to friends.","Perfect product, exactly as described. Will defini",4.0,True,1628998744,0,positive
+REVIEWER_00442,ASIN_8265,"Average product. Some things work well, others not so much.","Average product. Some things work well, others not",3.0,True,1636614757,0,neutral
+REVIEWER_00443,ASIN_8096,"Wonderful item, very well made. Arrived earlier than expected. Recommend to friends.","Wonderful item, very well made. Arrived earlier th",4.0,True,1637030386,0,positive
+REVIEWER_00444,ASIN_7990,Absolutely the best thing I have ever bought. 10/10 would recommend!!!!,Absolutely the best thing I have ever bought. 10/1,5.0,False,1615257647,1,fake
+REVIEWER_00445,ASIN_5026,Arrived damaged and customer service was useless. Never buying again. Great gift idea.,Arrived damaged and customer service was useless. ,2.0,True,1631178259,1,negative
+REVIEWER_00446,ASIN_7868,Fantastic! Works like a charm. Great value for money. Would buy again.,Fantastic! Works like a charm. Great value for mon,5.0,True,1616151893,0,positive
+REVIEWER_00447,ASIN_6883,"Not bad, not great either. Might be useful for some people.","Not bad, not great either. Might be useful for som",3.0,True,1625554738,0,neutral
+REVIEWER_00448,ASIN_7363,Neither impressed nor disappointed. Just an ordinary product.,Neither impressed nor disappointed. Just an ordina,3.0,True,1618533515,0,neutral
+REVIEWER_00449,ASIN_8728,"Wonderful item, very well made. Arrived earlier than expected. Would buy again.","Wonderful item, very well made. Arrived earlier th",4.0,True,1627223999,0,positive
+REVIEWER_00450,ASIN_4951,Do not buy this. It broke immediately and smells strange.,Do not buy this. It broke immediately and smells s,1.0,True,1618402362,0,negative
+REVIEWER_00451,ASIN_7363,It is okay for the price. Does what it says but nothing special.,It is okay for the price. Does what it says but no,3.0,True,1621364467,0,neutral
+REVIEWER_00452,ASIN_6878,Paint chipped off after one use. Very poor manufacturing. Would buy again.,Paint chipped off after one use. Very poor manufac,1.0,True,1640127279,0,quality
+REVIEWER_00453,ASIN_9064,Mediocre quality but acceptable for the price point.,Mediocre quality but acceptable for the price poin,3.0,True,1627649883,0,neutral
+REVIEWER_00454,ASIN_1326,Horrible experience. Wrong item shipped and no resolution offered. Great gift idea.,Horrible experience. Wrong item shipped and no res,1.0,True,1627123880,0,negative
+REVIEWER_00455,ASIN_3907,This is garbage. Stopped working after a week. Requesting refund.,This is garbage. Stopped working after a week. Req,1.0,True,1640288367,0,negative
+REVIEWER_00456,ASIN_3320,Delivery was delayed by ten days. Very poor logistics. Very useful item.,Delivery was delayed by ten days. Very poor logist,1.0,True,1635442628,0,delivery
+REVIEWER_00457,ASIN_7481,Love this product! It has made my daily routine so much easier.,Love this product! It has made my daily routine so,5.0,True,1629122656,0,positive
+REVIEWER_00458,ASIN_8157,Outstanding quality. My family loves it. Five stars all the way! Great gift idea.,Outstanding quality. My family loves it. Five star,5.0,True,1636029026,0,positive
+REVIEWER_00459,ASIN_6846,Neither impressed nor disappointed. Just an ordinary product. Very useful item.,Neither impressed nor disappointed. Just an ordina,3.0,True,1616949797,0,neutral
+REVIEWER_00460,ASIN_5825,PERFECT PERFECT PERFECT!! Everyone should buy this immediately!!!,PERFECT PERFECT PERFECT!! Everyone should buy this,5.0,False,1613732302,1,fake
+REVIEWER_00461,ASIN_1530,This product is absolutely amazing! Works perfectly and arrived on time.,This product is absolutely amazing! Works perfectl,5.0,True,1615568849,0,positive
+REVIEWER_00462,ASIN_2274,"Not bad, not great either. Might be useful for some people.","Not bad, not great either. Might be useful for som",3.0,True,1617445018,0,neutral
+REVIEWER_00463,ASIN_6500,This is garbage. Stopped working after a week. Requesting refund.,This is garbage. Stopped working after a week. Req,1.0,True,1624445613,0,negative
+REVIEWER_00464,ASIN_2770,"Perfect product, exactly as described. Will definitely buy again.","Perfect product, exactly as described. Will defini",4.0,True,1633632268,0,positive
+REVIEWER_00465,ASIN_7783,Fantastic! Works like a charm. Great value for money.,Fantastic! Works like a charm. Great value for mon,5.0,True,1626004286,0,positive
+REVIEWER_00466,ASIN_4695,The stitching fell apart within a week. Terrible quality control. Recommend to friends.,The stitching fell apart within a week. Terrible q,2.0,True,1614917046,0,quality
+REVIEWER_00467,ASIN_2215,Terrible quality. Broke after just two days. Total waste of money. Would buy again.,Terrible quality. Broke after just two days. Total,2.0,True,1620928380,0,negative
+REVIEWER_00468,ASIN_2525,Fantastic! Works like a charm. Great value for money.,Fantastic! Works like a charm. Great value for mon,4.0,True,1620798939,0,positive
+REVIEWER_00469,ASIN_8113,Neither impressed nor disappointed. Just an ordinary product.,Neither impressed nor disappointed. Just an ordina,3.0,True,1614730728,0,neutral
+REVIEWER_00470,ASIN_9849,"Wonderful item, very well made. Arrived earlier than expected.","Wonderful item, very well made. Arrived earlier th",4.0,True,1618360008,0,positive
+REVIEWER_00471,ASIN_9043,Great great great great great! Totally love it so much!! Recommend to friends.,Great great great great great! Totally love it so ,5.0,False,1614612823,1,fake
+REVIEWER_00472,ASIN_8869,This product is absolutely amazing! Works perfectly and arrived on time. Good value.,This product is absolutely amazing! Works perfectl,5.0,True,1616159174,0,positive
+REVIEWER_00473,ASIN_8758,"Perfect product, exactly as described. Will definitely buy again.","Perfect product, exactly as described. Will defini",4.0,True,1637771392,0,positive
+REVIEWER_00474,ASIN_2493,Fantastic! Works like a charm. Great value for money.,Fantastic! Works like a charm. Great value for mon,5.0,True,1630996661,0,positive
+REVIEWER_00475,ASIN_8303,Decent enough. Delivery was on time but the item is just average.,Decent enough. Delivery was on time but the item i,3.0,True,1610956295,0,neutral
+REVIEWER_00476,ASIN_3476,Really impressed with the build quality. Delivery was super fast. Would buy again.,Really impressed with the build quality. Delivery ,5.0,True,1634700022,0,positive
+REVIEWER_00477,ASIN_9871,Best product ever! Amazing! Buy now! You will love it! Five stars!,Best product ever! Amazing! Buy now! You will love,5.0,False,1623350286,1,fake
+REVIEWER_00478,ASIN_9561,No response from seller after multiple complaints. Avoid.,No response from seller after multiple complaints.,1.0,True,1623506161,0,service
+REVIEWER_00479,ASIN_1568,Customer care is rude and unhelpful. Will never shop here again.,Customer care is rude and unhelpful. Will never sh,1.0,True,1626306929,0,service
+REVIEWER_00480,ASIN_3738,Decent enough. Delivery was on time but the item is just average.,Decent enough. Delivery was on time but the item i,3.0,True,1616569053,0,neutral
+REVIEWER_00481,ASIN_8133,Shipping took forever. My order was stuck in transit for two weeks.,Shipping took forever. My order was stuck in trans,1.0,True,1616234486,0,delivery
+REVIEWER_00482,ASIN_2097,Contacted support five times with no resolution whatsoever.,Contacted support five times with no resolution wh,2.0,True,1612379356,0,service
+REVIEWER_00483,ASIN_1202,Awful product. Complete waste of money. Zero stars if I could.,Awful product. Complete waste of money. Zero stars,2.0,True,1635851459,0,negative
+REVIEWER_00484,ASIN_3428,Wonderful wonderful! Best purchase ever! Amazing quality amazing price! Great gift idea.,Wonderful wonderful! Best purchase ever! Amazing q,5.0,False,1628470937,1,fake
+REVIEWER_00485,ASIN_5687,"Average product. Some things work well, others not so much.","Average product. Some things work well, others not",3.0,True,1638566839,0,neutral
+REVIEWER_00486,ASIN_8750,Mediocre quality but acceptable for the price point. Good value.,Mediocre quality but acceptable for the price poin,3.0,True,1610716339,0,neutral
+REVIEWER_00487,ASIN_7581,Fantastic! Works like a charm. Great value for money.,Fantastic! Works like a charm. Great value for mon,4.0,True,1610760525,0,positive
+REVIEWER_00488,ASIN_7102,This is garbage. Stopped working after a week. Requesting refund. Recommend to friends.,This is garbage. Stopped working after a week. Req,1.0,True,1610138103,0,negative
+REVIEWER_00489,ASIN_2609,Late delivery and the item was defective. Extremely frustrating. Recommend to friends.,Late delivery and the item was defective. Extremel,2.0,True,1638614646,0,negative
+REVIEWER_00490,ASIN_7828,Outstanding quality. My family loves it. Five stars all the way!,Outstanding quality. My family loves it. Five star,5.0,True,1629758931,0,positive
+REVIEWER_00491,ASIN_9462,"Not bad, not great either. Might be useful for some people. Recommend to friends.","Not bad, not great either. Might be useful for som",3.0,True,1638557233,0,neutral
+REVIEWER_00492,ASIN_3222,Terrible quality. Broke after just two days. Total waste of money. Good value.,Terrible quality. Broke after just two days. Total,1.0,True,1635648985,0,negative
+REVIEWER_00493,ASIN_5087,Motor broke after three days. Extremely poor build quality. Great gift idea.,Motor broke after three days. Extremely poor build,1.0,True,1610568880,0,quality
+REVIEWER_00494,ASIN_3029,This is garbage. Stopped working after a week. Requesting refund. Recommend to friends.,This is garbage. Stopped working after a week. Req,1.0,True,1632315618,0,negative
+REVIEWER_00495,ASIN_8775,"Wonderful item, very well made. Arrived earlier than expected.","Wonderful item, very well made. Arrived earlier th",5.0,True,1629151633,0,positive
+REVIEWER_00496,ASIN_2480,Mediocre quality but acceptable for the price point.,Mediocre quality but acceptable for the price poin,3.0,True,1619024541,0,neutral
+REVIEWER_00497,ASIN_4511,This product is absolutely amazing! Works perfectly and arrived on time.,This product is absolutely amazing! Works perfectl,4.0,True,1638219079,0,positive
+REVIEWER_00498,ASIN_1145,"Perfect product, exactly as described. Will definitely buy again. Recommend to friends.","Perfect product, exactly as described. Will defini",4.0,True,1625367262,0,positive
+REVIEWER_00499,ASIN_6004,Paint chipped off after one use. Very poor manufacturing. Very useful item.,Paint chipped off after one use. Very poor manufac,1.0,True,1633374802,0,quality
